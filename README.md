@@ -1,1 +1,1 @@
-![](trading_bot_algorithmic.png | width=100)
+<img src="trading_bot_algorithmic.png" width="800">
